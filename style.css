@@ -1,0 +1,194 @@
+/* Estilo para o header */
+.header_re {
+    background-color: #f2f2f2;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_logo_holder {
+    display: flex;
+    align-items: center;
+}
+
+.header_logo {
+    width: 150px; /* Ajuste conforme necessário */
+}
+
+/* Estilo para o conteúdo principal */
+.content {
+    padding: 2em;
+    text-align: center;
+}
+
+.content form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.form-group {
+    margin-bottom: 1em;
+    margin-right: 10px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: .5em;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: .5em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group input[type="submit"] {
+    width: auto;
+    background-color: #051235;
+    color: #fbff79;
+    border: none;
+    cursor: pointer;
+    padding: .5em 1em;
+    border-radius: 5px;
+}
+
+.form-group input[type="submit"]:hover {
+    background-color: #fbff79;
+    color: #051235;
+}
+
+/* Estilo para o footer */
+#footer.footer_re {
+    background-color: #dfe5eb;
+    padding: 2em 0;
+    text-align: center;
+}
+
+/* Estilo para o logo no footer */
+.footer_logo_holder {
+    margin-bottom: 1em;
+}
+
+.footer_logo {
+    max-width: 150px; /* Ajuste conforme necessário */
+}
+
+/* Estilo para a tagline da empresa */
+.footer_company_tagline {
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #051235;
+    margin-bottom: 1em;
+}
+
+/* Estilo para o formulário de inscrição */
+.form-columns-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    margin-right: 10px;
+}
+
+.actions {
+    margin-left: 10px;
+}
+
+
+
+[type="submit"] {
+    background-color: #051235;
+    color: #fbff79;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+[type="submit"]:hover {
+    background-color: #fbff79;
+    color: #051235;
+}
+
+/* Estilo para o link de destaque */
+.footer_highlight_area a {
+    font-size: 1em;
+    font-weight: bold;
+    color: #051235;
+    text-decoration: none;
+}
+
+.footer_highlight_area a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para o menu de contato */
+.footer_second_row {
+    margin-top: 1em;
+}
+
+.footer_menu_header {
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #051235;
+    margin-bottom: 0.5em;
+}
+
+.footer_menu_item {
+    margin-bottom: 0.5em;
+}
+
+.footer_menu_item a {
+    font-size: 0.8em;
+    color: #051235;
+    text-decoration: none;
+}
+
+.footer_menu_item a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para os links de política */
+.policy_menu-container {
+    margin-top: 2em;
+}
+
+.policy_menu-container ul {
+    padding: 0;
+    list-style: none;
+}
+
+.policy_menu-container ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.policy_menu-container ul li:last-child {
+    margin-right: 0;
+}
+
+.policy_menu-container ul li a {
+    font-size: 0.8em;
+    color: #051235;
+    text-decoration: none;
+}
+
+.policy_menu-container ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para o texto de direitos autorais */
+.footer_copyright_holder {
+    font-size: 0.8em;
+    color: #7a7a7a;
+    margin-top: 1em;
+}
