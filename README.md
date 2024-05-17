@@ -5,7 +5,7 @@
 - Gustavo Hoiti ([GitHub](#))
 - Eduardo Pacheco ([GitHub](https://github.com/duzaao))
 - Guilherme Damy ([GitHub](#))
-- Rebeca ([GitHub](#))
+- Rebeca Carvalho ([GitHub](https://github.com/rebecacarvalhoaraujo))
 
 
 Somos um grupo de quatro estudantes da Universidade de São Paulo (USP), participando do Programa de Startup realizado pela [Amigos da Poli](http://www.amigosdapoli.com.br/). Nosso projeto tem como objetivo desenvolver uma funcionalidade inovadora para a empresa INSIDER.
@@ -65,4 +65,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Desenvolvido com ❤ por Gustavo Hoiti, Guilherme Damy, Rebeca e Eduardo Pacheco.
+Desenvolvido com ❤ por Gustavo Hoiti, Guilherme Damy, Rebeca Carvalho e Eduardo Pacheco.
